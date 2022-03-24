@@ -1,0 +1,17 @@
+.divcontenedor
+{
+color:pink;
+border:1px solid black;
+width:100%;
+height:20%;
+background:#B4BDD1;
+}
+ 
+.divA
+{
+width:120px;
+height:120px;
+background:silver;
+}
+
+body{background:blue;}
